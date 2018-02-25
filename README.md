@@ -1,5 +1,5 @@
 # gui-term
-gui-term is a simple library or gem for creating gui in ruby
+gui-term is a simple library or gem for creating gui for terminal in ruby
 
 # Example
 <img src="./sample.gif" width = "640px" height="300px" alt="example gui-term" />
