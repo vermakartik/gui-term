@@ -32,7 +32,7 @@ require '../guit/guit'
 
 Guit.run{
 	Guit.clearScreen
-	Guit.addToDraw(Guit.drawStroke(1, 1, 10, 10, Guit.Color(128, 120, 123)))
+	Guit.addToDraw(Guit.drawStroke(1, 1, 10, 10, Guit.rgbBack(128, 120, 123)))
 }
 ```
 
