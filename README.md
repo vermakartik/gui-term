@@ -8,8 +8,8 @@ gui-term is a simple library or gem for creating gui for terminal in ruby
 
 # Example
 <img src="./examples/sample.gif" width = "640px" height="300px" alt="example gui-term" />
-<br/>
-Find the code for this animation at `examples/flappyAnime.rb`
+
+<p>Find the code for this animation at `examples/flappyAnime.rb`<p>
 
 ## Running the example
  To run the sample go to `examples` directory and run the following command from terminal
