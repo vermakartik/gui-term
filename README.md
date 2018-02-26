@@ -7,7 +7,7 @@ gui-term is a simple library or gem for creating gui for terminal in ruby
 2. `gnome-terminal`
 
 # Example
-Find the code for this animation at `examples/flappyAnime.rb`
+Find the code for this animation at [here](./examples/flappyAnime.rb)
 
 <img src="./examples/sample.gif" width = "640px" height="300px" alt="example gui-term" />
 
