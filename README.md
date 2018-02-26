@@ -28,7 +28,7 @@ Easy to use
 
 e.g.
 ```ruby
-require '../guit/guit'
+require '../lib/guit'
 
 Guit.run{
 	Guit.clearScreen
