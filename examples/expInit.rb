@@ -1,4 +1,4 @@
-require '../guit/guit'
+require '../lib/guit'
 
 x1, y1 = 10, 10
 x2, y2 = 10, 40

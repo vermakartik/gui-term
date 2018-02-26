@@ -1,4 +1,4 @@
-require '../guit/guit'
+require '../lib/guit'
 
 class Pipe
 
