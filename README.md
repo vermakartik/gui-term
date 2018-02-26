@@ -46,3 +46,8 @@ Guit.run{
 
 1. Not tested
 
+*Note*: You are encouraged to add tests for this repository
+
+# Contribute
+
+Open for all to contribute:)
