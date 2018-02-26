@@ -203,6 +203,7 @@ module Guit
     		end
     		string += recursion8Condition(xc, yc, x, y, start_angle, end_angle, color)
     	end
+        return string
     end
 
     def Guit.printText(x, y, text, foreColor: nil, backColor: nil, styles: nil)
